@@ -1,8 +1,10 @@
 ## Blackjack in Python 
+The main task of this challenge was to write code that accurately scored a hand of blackjack.
 
-1) I created a basic game of Blackjack in Python that satisfied test scenarios using TDD
+I created a basic game of Blackjack in Python that satisfied test scenarios using TDD.
 
-2) I also extended the game further in a separate file (extended_play_blackjack) to include further gameplay/interactivity including:
+I then extended the game further in a separate file (extended_play_blackjack) to include further gameplay/interactivity including:
+
  - Interaction with player and invites input
  - Displaying player cards and dealers opening card
  - Player vs Dealer gameplay
